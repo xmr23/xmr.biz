@@ -1,4 +1,4 @@
-www
+about
 ===
 
-www.xmr.biz
+about.xmr.biz
