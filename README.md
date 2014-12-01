@@ -1,4 +1,4 @@
-about.xmr.biz
+xmr.biz
 ===
 
-about.xmr.biz
+xmr.biz
