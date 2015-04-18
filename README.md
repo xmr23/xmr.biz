@@ -4,4 +4,4 @@ xmr.biz Project Homepage
 ==
 Link: http://xmr.biz/.
 
-More infos on The Monero Project at: http://monero.cc/.
+More infos on The Monero Project at: http://getmonero.org/.
