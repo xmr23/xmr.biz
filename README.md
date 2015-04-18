@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/xmr23/commons.xmr.biz/master/Pictures/logo.jpg)
+![Logo](https://raw.githubusercontent.com/xmr23/commons.xmr.biz/master/Pictures/Logos_and_Buttons/logo.jpg)
 
 xmr.biz Project Homepage
 ==
