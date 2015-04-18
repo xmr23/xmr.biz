@@ -1,4 +1,4 @@
-![Logo](http://monero.cc/wordpress/wp-content/uploads/2014/04/logo3.jpg)
+![Logo](https://raw.githubusercontent.com/xmr23/commons.xmr.biz/master/Pictures/logo.jpg)
 
 xmr.biz Project Homepage
 ==
