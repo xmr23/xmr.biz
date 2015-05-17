@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/xmr23/commons.xmr.biz/gh-pages/Pictures/Logos_and_Buttons/monero-logo-685x185px.jpg)
+![Logo](https://raw.githubusercontent.com/xmr23/commons.xmr.biz/gh-pages/Graphics/Logos-and-Buttons/monero-logo-685x185px.jpg)
 
 xmr.biz Project Homepage
 ==
